@@ -1,0 +1,33 @@
+body{
+    background-color: #E1E1E1;
+}
+.headingthree{
+    color: #F3A84B;
+    text-decoration: underline;
+    margin-top: -15px;
+}
+.headingfirst{
+    color: #969B9C;
+}
+.paragraph{
+    margin-left: 50px;
+    margin-top: -15px;
+}
+.headingsecond{
+    color: #969B9C;
+    margin-bottom: 40px;
+
+}
+.headingdown{
+    color: #F3A84B;
+    text-decoration: underline;
+    margin-bottom: 20px;
+}
+.headingfour{
+    margin-top: 20px;
+    color: #F3A84B;
+    text-decoration: underline;
+}
+.ullist{
+    margin-left: 60px;
+}
